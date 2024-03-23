@@ -1,2 +1,2 @@
-# PI_de_-n-
-faça com que o programa gere o PI até "n' casas decimais. Mantenha um limite para o quão longe o programa irá.
+# PI_de_N
+Este programa em Python calcula o valor de Pi com um número específico de casas decimais fornecido pelo usuário. Ele utiliza a biblioteca decimal para controlar a precisão decimal durante os cálculos. O usuário é solicitado a inserir o número de casas decimais desejadas, e o programa calcula o valor de Pi com base nesse número de casas decimais. O resultado é então exibido na saída. O programa garante a precisão adequada ajustando o contexto decimal com duas casas decimais extras para garantir precisão suficiente durante os cálculos.
